@@ -7,3 +7,6 @@ def hello_world():
 def some_other_function(x):
   # Do stuff here
   return x
+
+def print_message():
+  print("success")
